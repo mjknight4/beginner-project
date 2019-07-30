@@ -37,7 +37,7 @@ header h1 {
     padding: 65px 0 65px 25px;
     font-family: 'Lora', serif;
     font-size: 30px;
-    color: #bbc085;
+    color: red;
 }
 nav {
     float: right; 
@@ -65,19 +65,6 @@ header h2 {
 header h2 span {
     color: #2b2b2b;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 /***** About *****/
 
 #about .full-width {
